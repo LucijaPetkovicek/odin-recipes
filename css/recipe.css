@@ -1,0 +1,33 @@
+
+.container {
+    color: rgb(95, 95, 129);
+    /*display: inline-block;*/
+    vertical-align:text-top;
+    background-color: rgb(180, 187, 192);
+    padding: 2%;
+    border-radius: 2%;
+    
+   
+}
+
+#Description {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-weight: 1000;
+    font-style: italic;
+    background-color: rgb(236, 224, 248);
+    
+    
+    
+
+}
+ul {
+    list-style-type: circle;
+  }
+  
+  ol {
+    list-style-type:decimal;
+    
+  }
+
+  
+  
